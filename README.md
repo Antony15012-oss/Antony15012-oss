@@ -10,7 +10,7 @@ Estudando programação com foco em projetos práticos e desenvolvimento de lóg
 
 Estou construindo minha base como desenvolvedor através de exercícios e sistemas simples.
 
----
+--
 
 ## Tecnologias em aprendizado
 
